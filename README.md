@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to My GitHub Profile! 👋</h1>
 
-🌟 Hi there! I'm an ICT student with a keen focus on Software Technology. My passion lies in creating innovative ideas and solving real-world problems through practical projects. I believe in the power of technology to transform lives and drive progress.
+🌟 Hi there! I'm an ICT student focused on Software Technology, passionate about creating new ideas and solving real-world problems through practical projects.
 
 ---
 
