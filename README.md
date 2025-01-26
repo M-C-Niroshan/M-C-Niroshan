@@ -25,4 +25,4 @@
 
 ---
 
-<h3 align="center">Feel free to explore my repositories and projects. I'm always open to collaborating on exciting ideas and learning from others in the community. Let's make something awesome together! 🚀</h1>
+<h3 align="center">Feel free to explore my repositories and projects. I'm always open to collaborating on exciting ideas and learning from others in the community. Let's make something awesome 🚀</h1>
