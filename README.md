@@ -1,6 +1,15 @@
 <h1 align="center"> Welcome to My GitHub Profile! 👋</h1>
 
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=M-C-Niroshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-C-Niroshan&theme=dark&hide_border=false&v=1"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-C-Niroshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
